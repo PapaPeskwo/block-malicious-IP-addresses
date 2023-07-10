@@ -22,6 +22,6 @@ if ip != "dst_ip":
 ```
 
 ## Credits
-Idea came from [The PC Security Channel](https://www.youtube.com/watch?v=7UWFJGeix_E), but had some modification in the code, such as using the plain-text the website provides rather than csv.
-[Feodo tracker list](https://feodotracker.abuse.ch/blocklist/)
-Thanks to [Abuse](https://abuse.ch/) for compiling this list.
+- Idea came from [The PC Security Channel](https://www.youtube.com/watch?v=7UWFJGeix_E), but had some modification in the code, such as using the plain-text the website provides rather than csv.
+- [Feodo tracker list](https://feodotracker.abuse.ch/blocklist/)
+- Thanks to [Abuse](https://abuse.ch/) for compiling this list.
