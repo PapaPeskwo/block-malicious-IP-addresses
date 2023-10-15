@@ -7,6 +7,9 @@ Powershell needs to be run as admin:
 py ip_blocker.py
 ```
 
+### Use-case
+This can be added as a Schedueled task on your Windows PC to periodically update your firewall settings.
+
 ## Blocking inbound traffic
 You can also add this rule to the code to block inbound traffic:
 ```
